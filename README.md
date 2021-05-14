@@ -5,7 +5,7 @@ This is my final project on the "Introduction to Computer Programming" course an
 
 ## Demo
 The demo video can be found [here](https://www.youtube.com/watch?v=Sjqj0FGU3qI). <br>
-<img src="https://github.com/linkingmon/Tetris/blob/main/image/demo.PNG" width="60%">
+<img src="https://github.com/linkingmon/Tetris-Battle/blob/main/image/demo.PNG" width="60%">
 
 ## File description
 
