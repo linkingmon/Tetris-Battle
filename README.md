@@ -1,7 +1,7 @@
 # Tetris
 
 ## Introduction
-This is my final project on the "Introduction to Computer Programming" course and I build up this Tetris game by using the [SDL library](https://www.libsdl.org/) (the tutorial can be find [this here](https://lazyfoo.net/tutorials/SDL/)).  
+This is my final project on the "Introduction to Computer Programming" course and I build up this Tetris game by using the [SDL library](https://www.libsdl.org/) (the tutorial can be find [here](https://lazyfoo.net/tutorials/SDL/)).  
 
 ## Demo
 The demo video can be found [here](https://www.youtube.com/watch?v=Sjqj0FGU3qI). <br>
